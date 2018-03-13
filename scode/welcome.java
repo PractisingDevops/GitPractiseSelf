@@ -1,4 +1,4 @@
 welcome to java
 added new function
-tring for pull with merge conflict(edited at linux)
+trying for pull with merge conflict(edited at windows)
 
